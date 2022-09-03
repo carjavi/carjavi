@@ -1,5 +1,5 @@
-# </> Hi I'm carjavi
-Copyright &copy; 2022 [carjavi](https://github.com/carjavi) <br>
+# </> Hi. I'm carjavi { }
+Copyright &copy; 2022 [carjavi](https://carjavi.github.io/) <br>
 ```www.instintodigital.net``` <br>
 carjavi@hotmail.com 
 <p align="center">
