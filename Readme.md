@@ -8,6 +8,9 @@ Copyright &copy; 2022. About me [carjavi.github.io](https://carjavi.github.io/)
 
 
 <img  align="middle" width="32" height="32" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/linkedin.svg"> [linkedin/carjavi](https://www.linkedin.com/in/carjavi/)
+
+<img  align="middle" width="32" height="32" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/skype-icon.svg"> carjavi_skype
+
 <br>
 
 <p align="center">
