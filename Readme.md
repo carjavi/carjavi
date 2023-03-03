@@ -1,5 +1,5 @@
 # </> Hi. I'm carjavi { }
-Copyright &copy; 2022. About me [carjavi.github.io](https://carjavi.github.io/)
+Copyright &copy; 2022. About me <img  align="middle" width="32" height="16" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/github.svg"> [carjavi.github.io](https://carjavi.github.io/)
 <br>
 <br>
 <img  align="middle" width="32" height="32" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/outlook.svg"> carjavi@hotmail.com
@@ -9,7 +9,7 @@ Copyright &copy; 2022. About me [carjavi.github.io](https://carjavi.github.io/)
 
 <img  align="middle" width="32" height="32" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/linkedin.svg"> [linkedin/carjavi](https://www.linkedin.com/in/carjavi/)
 
-<img  align="middle" width="32" height="32" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/skype-icon.svg"> carjavi_skype
+<img  align="middle" width="32" height="32" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/skype-icon.svg"> [carjavi_skype](https://join.skype.com/invite/JbYFwnfy7UVc)
 
 <br>
 
