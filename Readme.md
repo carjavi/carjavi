@@ -14,7 +14,7 @@ Copyright &copy; 2022. About me &nbsp; <img  align="middle" width="20" src="http
 
 <img  align="middle" width="20" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/whatsapp.svg"> [+569 8611 6068](https://wa.me/+56986116068)
 
-<br>
+
 
 ### Languages and Tools:
 
@@ -32,8 +32,10 @@ Copyright &copy; 2022. About me &nbsp; <img  align="middle" width="20" src="http
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 
-<br />
-<br />
+<br>
+<br>
+<br>
+<br>
 
 <!-- Top Languages & GitHub Readme Stats:START -->
 <div class="row">
