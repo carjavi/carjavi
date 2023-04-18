@@ -14,7 +14,6 @@ Copyright &copy; 2022. About me &nbsp; <img  align="middle" width="20" src="http
 
 <img  align="middle" width="20" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/whatsapp.svg"> [+569 8611 6068](https://wa.me/+56986116068)
 
-<br>
 
 ___
 
@@ -58,7 +57,11 @@ ___
 <!-- Top Languages & GitHub Readme Stats:END -->
 
 <br>
+
 <br>
+
+<br>
+
 <p align="center">
     <a href="https://instintodigital.net/" target="_blank"><img src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/developer.png" height="100" alt="www.instintodigital.net"></a>
 </p>
