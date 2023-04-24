@@ -12,6 +12,7 @@ https://carjavi.github.io/
 
 <br>
 
+<!-- LINK my redes ooooooooooooooooooooooooojjjjjjjjjjjjooooooooooo -->
 ### Connect with me:
 
 <img  align="left" alt="" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/outlook.svg"/> 
@@ -86,18 +87,24 @@ https://carjavi.github.io/
 <!-- Top Languages & GitHub Readme Stats:START -->
 
 <div class="row" align="center">
-  <div class="column" width="50%">
+  <div class="column" width="50%" >
     <a href="https://github.com/carjavi/github-readme-stats">
       <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carjavi&layout=compact" 
     </a>
   </div>
-  <div class="column" width="50%">
+  <div class="column" width="50%" >
     <a href="https://github.com/carjavi/github-readme-stats">
       <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=carjavi&show_icons=true&hide_border=false&title_color=4D92F0&icon_color=ff652f&bg_color=ffffff&text_color=09131B&border_color=EBE8E7"    
     </a>
  </div>
 </div>
-<div align="center">
+
+<div class="row" align="center">
+  <p>&nbsp;</p>
+  <p>&nbsp; </p>
+</div>
+
+<div class="row" align="center">
   <div class="column" width="50%">
      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carjavi"/>
   </div>
@@ -109,7 +116,7 @@ https://carjavi.github.io/
 <!-- carjavi.github.io](https://carjavi.github.io/) -->
 <div>
   <p>
-    Copyright &copy; 2022. About me &nbsp; <img  align="top" width="26" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"/> <br>
+    <img  align="top" width="20" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"/>&nbsp;Copyright &copy; 2022. <br>
   </p>
 </div>
 
