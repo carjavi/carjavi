@@ -40,18 +40,24 @@ ___
 <br>
 
 <br>
+<!-- Counter Visits:START -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcarjavi%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visits%3A+Today%2FTotal&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+<!-- Counter Visits:END -->
 
 <br>
 
 <!-- Top Languages & GitHub Readme Stats:START -->
 <div class="row">
   <div class="column" width="50%">
-    <a href="https://github.com/jcmayoral/github-readme-stats">
+    <a href="https://github.com/carjavi/github-readme-stats">
       <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carjavi&layout=compact" 
     </a>
   </div>
   <div class="column" width="50%">
-    <a href="https://github.com/jcmayoral/github-readme-stats">
+    <a href="https://github.com/carjavi/github-readme-stats">
       <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=carjavi&show_icons=true&hide_border=false&title_color=4D92F0&icon_color=ff652f&bg_color=ffffff&text_color=09131B&border_color=EBE8E7"    
     </a>
  </div>
@@ -60,6 +66,8 @@ ___
 <!-- Top Languages & GitHub Readme Stats:END -->
 
 <br>
+
+
 
 <br>
 
