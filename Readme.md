@@ -5,7 +5,12 @@
 <!-- Counter Visits:END -->
 
 # </> Hi. I'm carjavi { }
-Copyright &copy; 2022. About me &nbsp; <img  align="middle" width="20" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/github.svg"> [carjavi.github.io](https://carjavi.github.io/)<br>
+
+### About me
+I'm working in it !
+https://carjavi.github.io/
+
+<br>
 
 ### Connect with me:
 
@@ -17,16 +22,14 @@ Copyright &copy; 2022. About me &nbsp; <img  align="middle" width="20" src="http
 
 <img  align="left" alt="" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/skype-icon.svg"/> 
 
-<img  align="left" alt="" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/youtube-icon.svg"/> 
+<img  align="left" alt="" width="28px" style="padding-right:10px;" src="./img/cdnlogo.com_youtube-icon.svg"/> 
 
-<img  align="left" alt="" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/whatsapp.svg"/> 
+<img  align="left" alt="" width="26px" style="padding-right:10px;" src="./img/cdnlogo.com_whatsapp-icon.svg"/> 
      
-
 <br>
 
 <br>
 
-<br>
 
 ---
 ### Languages and Tools:
@@ -41,16 +44,18 @@ Copyright &copy; 2022. About me &nbsp; <img  align="middle" width="20" src="http
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg"  style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="padding-right:10px;"/>
-<img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 
-<img align="left" alt="Terminal" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+<img align="left" alt="" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="padding-right:10px;"/>
+
+<img align="left" alt="Terminal" width="26px" src="./img/aws2.svg" style="padding-right:10px;" />
+
+<img align="left" alt="" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+
+<img align="left" alt="" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
           
-<img align="left" alt="Terminal" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Terminal" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="Terminal" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+<img align="left" alt="" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <img align="left" alt="" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
           
           
@@ -58,7 +63,6 @@ Copyright &copy; 2022. About me &nbsp; <img  align="middle" width="20" src="http
 
 <br>
 
-<br>
 
 ---
 ### Hardware
@@ -67,21 +71,21 @@ Copyright &copy; 2022. About me &nbsp; <img  align="middle" width="20" src="http
 
 <img align="left" alt="Terminal" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 
-<img align="left" alt="Terminal" width="26px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg" />
-          
-          
-          
+
+<img  align="left" alt="" width="26px" style="padding-right:10px;" src="./img/espressif.svg"/> 
 
 <br>
 
 <br>
-
-
-<br>
+     
+          
+---    
+ 
+### Github Summary   
 
 <!-- Top Languages & GitHub Readme Stats:START -->
 
-<div class="row">
+<div class="row" align="center">
   <div class="column" width="50%">
     <a href="https://github.com/carjavi/github-readme-stats">
       <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carjavi&layout=compact" 
@@ -93,7 +97,21 @@ Copyright &copy; 2022. About me &nbsp; <img  align="middle" width="20" src="http
     </a>
  </div>
 </div>
+<div align="center">
+  <div class="column" width="50%">
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carjavi"/>
+  </div>
+</div>
 <!-- Top Languages & GitHub Readme Stats:END -->
+
+<br>
+
+<!-- carjavi.github.io](https://carjavi.github.io/) -->
+<div>
+  <p>
+    Copyright &copy; 2022. About me &nbsp; <img  align="top" width="26" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"/> <br>
+  </p>
+</div>
 
 <br>
 
