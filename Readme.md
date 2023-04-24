@@ -1,25 +1,34 @@
+<!-- Counter Visits:START -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcarjavi%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors%3A+Today%2FTotal&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<!-- Counter Visits:END -->
+
 # </> Hi. I'm carjavi { }
 Copyright &copy; 2022. About me &nbsp; <img  align="middle" width="20" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/github.svg"> [carjavi.github.io](https://carjavi.github.io/)<br>
 
 ### Connect with me:
 
+<img  align="left" alt="" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/outlook.svg"/> 
 
-<img  align="middle" width="20" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/outlook.svg"> carjavi@hotmail.com
+<img  align="left" alt="" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/wordpress.svg"/> 
 
-<img  align="middle" width="20" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/wordpress.svg"> [www.instintodigital.net](http://instintodigital.net/)
+<img  align="left" alt="" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/> 
 
+<img  align="left" alt="" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/skype-icon.svg"/> 
 
-<img  align="middle" width="20" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/linkedin.svg"> [linkedin/carjavi](https://www.linkedin.com/in/carjavi/)
+<img  align="left" alt="" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/youtube-icon.svg"/> 
 
-<img  align="middle" width="20" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/skype-icon.svg"> [carjavi_skype](https://join.skype.com/invite/JbYFwnfy7UVc)
+<img  align="left" alt="" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/whatsapp.svg"/> 
+     
 
-<img  align="middle" width="20" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/youtube-icon.svg"> [youtube.com/@carjavitube](https://www.youtube.com/@carjavitube)
+<br>
 
-<img  align="middle" width="20" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/whatsapp.svg"> [+569 8611 6068](https://wa.me/+56986116068)
+<br>
 
+<br>
 
-___
-
+---
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -32,24 +41,46 @@ ___
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg"  style="padding-right:10px;" />
+<img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="padding-right:10px;"/>
+<img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Terminal" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 
-
+<img align="left" alt="Terminal" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+          
+<img align="left" alt="Terminal" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="Terminal" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Terminal" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+<img align="left" alt="" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+          
+          
 <br>
 
 <br>
 
 <br>
-<!-- Counter Visits:START -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcarjavi%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visits%3A+Today%2FTotal&edge_flat=false)](https://hits.seeyoufarm.com)
+---
+### Hardware
 
+<img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
 
-<!-- Counter Visits:END -->
+<img align="left" alt="Terminal" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+
+<img align="left" alt="Terminal" width="26px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg" />
+          
+          
+          
+
+<br>
+
+<br>
+
 
 <br>
 
 <!-- Top Languages & GitHub Readme Stats:START -->
+
 <div class="row">
   <div class="column" width="50%">
     <a href="https://github.com/carjavi/github-readme-stats">
@@ -62,7 +93,6 @@ ___
     </a>
  </div>
 </div>
-
 <!-- Top Languages & GitHub Readme Stats:END -->
 
 <br>
