@@ -33,7 +33,7 @@ https://carjavi.github.io/
 
 
 ---
-### Languages and Tools:
+### Languages and Tools: <!-- faltan los de autodesk ++++++++++++++++++++++-->
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -114,15 +114,9 @@ https://carjavi.github.io/
 <br>
 
 <!-- carjavi.github.io](https://carjavi.github.io/) -->
-<div>
-  <p>
-    <img  align="top" width="20" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"/>&nbsp;Copyright &copy; 2022. <br>
-  </p>
-</div>
+
 
 <br>
-
-
 
 <br>
 
@@ -133,3 +127,15 @@ https://carjavi.github.io/
 </p>
 <br>
 <p align="center">"Learning a computer language teaches you how to think" Steve Jobs </p>
+
+<br>
+
+<br>
+
+<br>
+
+<div>
+  <p>
+    <img  align="top" width="20" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png"/>&nbsp;Copyright &copy; 2022. <br>
+  </p>
+</div>
