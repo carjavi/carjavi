@@ -1,6 +1,9 @@
 # </> Hi. I'm carjavi { }
 Copyright &copy; 2022. About me &nbsp; <img  align="middle" width="20" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/github.svg"> [carjavi.github.io](https://carjavi.github.io/)<br>
 
+### Connect with me:
+
+
 <img  align="middle" width="20" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/outlook.svg"> carjavi@hotmail.com
 
 <img  align="middle" width="20" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/wordpress.svg"> [www.instintodigital.net](http://instintodigital.net/)
@@ -49,7 +52,7 @@ ___
   </div>
   <div class="column" width="50%">
     <a href="https://github.com/jcmayoral/github-readme-stats">
-      <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=carjavi&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"    
+      <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=carjavi&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=ffffff&text_color=09131B&border_color=0c1a25"    
     </a>
  </div>
 </div>
