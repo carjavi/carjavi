@@ -52,7 +52,7 @@ ___
   </div>
   <div class="column" width="50%">
     <a href="https://github.com/jcmayoral/github-readme-stats">
-      <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=carjavi&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=ffffff&text_color=09131B&border_color=0c1a25"    
+      <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=carjavi&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=D3D1D0&text_color=09131B&border_color=EBE8E7"    
     </a>
  </div>
 </div>
