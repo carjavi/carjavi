@@ -12,7 +12,7 @@ https://carjavi.github.io/
 
 <br>
 
-<!-- LINK my redes ooooooooooooooooooooooooojjjjjjjjjjjjooooooooooo -->
+
 ### Connect with me:
 <div>
   <a href="mailto:carjavi@hotmail.com"><img  align="left" alt="carjavi@hotmail.com" width="22px" style="padding-right:10px;" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/outlook.svg"/></a> 
@@ -40,20 +40,13 @@ https://carjavi.github.io/
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<!-- <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /> -->
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="padding-right:10px;"/>
-<img align="left" alt="AWS" width="26px" src="./img/aws2.svg" style="padding-right:10px;" />
-<img align="left" alt="Azure" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-<img align="left" alt="Google Cloud" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />          
-<img align="left" alt="Bootstrap" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+
 <img align="left" alt="" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-<img align="left" alt="" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Docker" width="38px" style="padding:0px 0px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+
           
           
 <br>
@@ -64,8 +57,7 @@ https://carjavi.github.io/
 
 
 ---
-### Hardware <!-- intel edison  / Onion -->
-
+### Hardware Used: 
 <img align="left" alt="Raspberry" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Arduino" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
@@ -79,11 +71,38 @@ https://carjavi.github.io/
 <br>
 
 <br>
+
+---
+### Design Tools Used:
+
+<br>
+
+<br>
+
+---
+### My Interests: 
+<div class="row" align="center">
+    <img  align="left" alt="openAI" width="100px" style="padding-right:10px;" src="./img/openAI.svg"/> 
+    <img  align="left" alt="openAI" width="100px" style="padding-right:10px;" src="./img/fusion.png"/> 
+    <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+    <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /> 
+    <img align="left" alt="AWS" width="26px" src="./img/aws2.svg" style="padding-right:10px;" />
+    <img align="left" alt="Azure" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+    <img align="left" alt="Google Cloud" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />          
+    <img align="left" alt="Bootstrap" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img align="left" alt="" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+    <img align="left" alt="Docker" width="38px" style="padding:0px 0px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+</div>
+
+
+<br>
+
+<br>
      
           
 ---    
- 
-### Github Summary   
+### Github Summary:   
 
 <!-- Top Languages & GitHub Readme Stats:START -->
 
@@ -105,18 +124,15 @@ https://carjavi.github.io/
   <p>&nbsp; </p>
 </div>
 
-<!-- esto esta raro -->
+<!-- Contribuciones :Start-->
 <div class="row" align="center">
   <div class="column" width="50%">
      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carjavi"/>
   </div>
 </div>
-<!-- Top Languages & GitHub Readme Stats:END -->
+<!-- Contribuciones :END -->
 
 <br>
-
-
-
 
 <br>
 
@@ -146,4 +162,3 @@ https://carjavi.github.io/
   </p>
 </div>
 
-<!-- &nbsp; -->
