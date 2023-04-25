@@ -14,18 +14,19 @@ https://carjavi.github.io/
 
 <!-- LINK my redes ooooooooooooooooooooooooojjjjjjjjjjjjooooooooooo -->
 ### Connect with me:
+<div>
+  <a href="mailto:carjavi@hotmail.com"><img  align="left" alt="carjavi@hotmail.com" width="22px" style="padding-right:10px;" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/outlook.svg"/></a> 
 
-<img  align="left" alt="" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/outlook.svg"/> 
+  <a href="https://instintodigital.net"><img  align="left" alt="instintodigital.net/" width="22px" style="padding-right:10px;" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/wordpress.svg"/></a> 
 
-<img  align="left" alt="" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/wordpress.svg"/> 
+  <a href="https://www.linkedin.com/in/carjavi"><img  align="left" alt="linkedin.com/in/carjavi/" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a> 
 
-<img  align="left" alt="" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/> 
+  <a href="https://join.skype.com/invite/JbYFwnfy7UVc"><img  align="left" alt="join.skype.com/invite/JbYFwnfy7UVc" width="22px" style="padding-right:10px;" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/skype-icon.svg"/></a> 
 
-<img  align="left" alt="" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/skype-icon.svg"/> 
+  <a href="https://www.youtube.com/channel/UCuG7gHwGSb-3hRSI_5-2Tow"><img  align="left" alt="youtube.com/@carjavitube" width="26px" style="padding-right:10px;" src="./img/cdnlogo.com_youtube-icon.svg"/></a> 
 
-<img  align="left" alt="" width="28px" style="padding-right:10px;" src="./img/cdnlogo.com_youtube-icon.svg"/> 
-
-<img  align="left" alt="" width="26px" style="padding-right:10px;" src="./img/cdnlogo.com_whatsapp-icon.svg"/> 
+  <a href="https://wa.me/+56986116068"><img  align="left" alt="wa.me/+56986116068" width="22px" style="padding-right:10px;" src="./img/cdnlogo.com_whatsapp-icon.svg"/></a>  
+</div>
      
 <br>
 
@@ -45,35 +46,35 @@ https://carjavi.github.io/
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-
-<img align="left" alt="" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="padding-right:10px;"/>
-
-<img align="left" alt="Terminal" width="26px" src="./img/aws2.svg" style="padding-right:10px;" />
-
-<img align="left" alt="" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-
-<img align="left" alt="" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-          
-<img align="left" alt="" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="padding-right:10px;"/>
+<img align="left" alt="AWS" width="26px" src="./img/aws2.svg" style="padding-right:10px;" />
+<img align="left" alt="Azure" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+<img align="left" alt="Google Cloud" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />          
+<img align="left" alt="Bootstrap" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-<img align="left" alt="" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Docker" width="38px" style="padding:0px 0px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
           
           
 <br>
 
 <br>
+
+<!-- Design autodesk, Autocad, fusion, 3D studio, photoshop -->
 
 
 ---
-### Hardware
+### Hardware <!-- intel edison  / Onion -->
 
-<img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Raspberry" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Terminal" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+<img align="left" alt="Arduino" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 
+<img  align="left" alt="ESP32" width="26px" style="padding-right:10px;" src="./img/espressif.svg"/> 
 
-<img  align="left" alt="" width="26px" style="padding-right:10px;" src="./img/espressif.svg"/> 
+<img  align="left" alt="Intel Edison" width="70px" style="padding-right:10px;" src="./img/intel-edison.svg"/> 
+
+<img  align="left" alt="Onion Omega2" width="23px" style="padding-right:10px;" src="./img/onion.png"/> 
 
 <br>
 
@@ -104,6 +105,7 @@ https://carjavi.github.io/
   <p>&nbsp; </p>
 </div>
 
+<!-- esto esta raro -->
 <div class="row" align="center">
   <div class="column" width="50%">
      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carjavi"/>
@@ -113,7 +115,7 @@ https://carjavi.github.io/
 
 <br>
 
-<!-- carjavi.github.io](https://carjavi.github.io/) -->
+
 
 
 <br>
