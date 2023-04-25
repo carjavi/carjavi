@@ -74,9 +74,10 @@ https://carjavi.github.io/
 
 ---
 ### Design Tools:
-<img  align="left" alt="Autodesk-eagle" width="136px" style="padding-right:10px;" src="./img/eagle.png"/>
+<img  align="left" alt="Autodesk-eagle" width="136px" style="padding-right:10px;" src="./img/eagle_.png"/>
 <img  align="left" alt="Autodesk-3Dstudio" width="100px" style="padding-right:10px;" src="./img/3max.png"/>
-<img  align="left" alt="Photoshop" width="46px" style="padding-right:10px;" src="./img/photoshop.svg"/>
+<img  align="left" alt="Autodesk-AutoCad" width="120px" style="padding-right:10px;" src="./img/auto-cad.svg"/>
+<img  align="left" alt="Photoshop" width="38px" style="padding-right:10px;" src="./img/photoshop.svg"/>
 
 <br>
 
