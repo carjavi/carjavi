@@ -77,7 +77,7 @@ https://carjavi.github.io/
 <img  align="left" alt="Autodesk-eagle" width="136px" style="padding-right:10px;" src="./img/eagle_.png"/>
 <img  align="left" alt="Autodesk-3Dstudio" width="100px" style="padding-right:10px;" src="./img/3max.png"/>
 <img  align="left" alt="Autodesk-AutoCad" width="120px" style="padding-right:10px;" src="./img/auto-cad.svg"/>
-<img  align="left" alt="Photoshop" width="38px" style="padding-right:10px;" src="./img/photoshop.svg"/>
+<img  align="left" alt="Photoshop" width="32px" style="padding-right:10px;" src="./img/photoshop.svg"/>
 
 <br>
 
@@ -89,14 +89,16 @@ https://carjavi.github.io/
     <img  align="left" alt="openAI" width="100px" style="padding-right:10px;" src="./img/openAI.svg"/> 
     <img  align="left" alt="openAI" width="108px" style="padding-right:10px;" src="./img/fusion.png"/> 
     <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-    <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /> 
-    <img align="left" alt="AWS" width="26px" src="./img/aws2.svg" style="padding-right:10px;" />
+    <img align="left" alt="MySQL" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /> 
+    <img align="left" alt="AWS" width="28px" src="./img/aws2.svg" style="padding-right:10px;" />
     <img align="left" alt="Azure" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
     <img align="left" alt="Google Cloud" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />          
     <img align="left" alt="Bootstrap" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img align="left" alt="" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
     <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+    <img  align="left" alt="Skill-Alexa" width="26px" style="padding-right:10px;" src="./img/alexa.svg"/>
     <img align="left" alt="Docker" width="38px" style="padding:0px 0px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+     
 </div>
 
 
