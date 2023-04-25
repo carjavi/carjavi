@@ -136,9 +136,13 @@ https://carjavi.github.io/
 
 <br>
 
+<br>
+
+<br>
+
 <div>
   <p>
-    <img  align="" width="32" style="padding:0px;" src="./img/carjavi.png"/>&nbsp;&copy; 2023 Instinto Digital
+    <img  align="top" width="42" style="padding:0px 0px 0px 0px;" src="./img/carjavi.png"/>&nbsp;&copy; 2023 Instinto Digital
   </p>
 </div>
 
