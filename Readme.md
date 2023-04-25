@@ -73,7 +73,10 @@ https://carjavi.github.io/
 <br>
 
 ---
-### Design Tools Used:
+### Design Tools:
+<img  align="left" alt="Autodesk-eagle" width="136px" style="padding-right:10px;" src="./img/eagle.png"/>
+<img  align="left" alt="Autodesk-3Dstudio" width="100px" style="padding-right:10px;" src="./img/3max.png"/>
+<img  align="left" alt="Photoshop" width="46px" style="padding-right:10px;" src="./img/photoshop.svg"/>
 
 <br>
 
@@ -83,7 +86,7 @@ https://carjavi.github.io/
 ### My Interests: 
 <div class="row" align="center">
     <img  align="left" alt="openAI" width="100px" style="padding-right:10px;" src="./img/openAI.svg"/> 
-    <img  align="left" alt="openAI" width="100px" style="padding-right:10px;" src="./img/fusion.png"/> 
+    <img  align="left" alt="openAI" width="108px" style="padding-right:10px;" src="./img/fusion.png"/> 
     <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
     <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /> 
     <img align="left" alt="AWS" width="26px" src="./img/aws2.svg" style="padding-right:10px;" />
