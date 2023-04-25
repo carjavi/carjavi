@@ -25,7 +25,7 @@ https://carjavi.github.io/
 
   <a href="https://www.youtube.com/channel/UCuG7gHwGSb-3hRSI_5-2Tow"><img  align="left" alt="youtube.com/@carjavitube" width="26px" style="padding-right:10px;" src="./img/cdnlogo.com_youtube-icon.svg"/></a> 
 
-  <a href="https://wa.me/+56986116068"><img  align="left" alt="wa.me/+56986116068" width="22px" style="padding-right:10px;" src="./img/cdnlogo.com_whatsapp-icon.svg"/></a>  
+  <a href="https://wa.me/+56986116068"><img  align="left" alt="wa.me/+56986116068" width="24px" style="padding-right:10px;" src="./img/cdnlogo.com_whatsapp-icon.svg"/></a>  
 </div>
      
 <br>
@@ -90,7 +90,7 @@ https://carjavi.github.io/
 <div class="row" align="center">
   <div class="column" width="50%" >
     <a href="https://github.com/carjavi/github-readme-stats">
-      <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carjavi&layout=compact" 
+      <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carjavi&layout=compact&hide=less,scss,smarty,pug" 
     </a>
   </div>
   <div class="column" width="50%" >
