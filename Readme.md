@@ -97,7 +97,7 @@ https://carjavi.github.io/
     <img align="left" alt="" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
     <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
     <img  align="left" alt="Skill-Alexa" width="32px" style="padding-right:10px;" src="./img/alexa.svg"/>
-    <img  align="left" alt="ROS" width="80px" style="vertical-align:super;margin:0px 0px" src="./img/ros-logo.svg"/>
+    <img  align="left" alt="ROS" width="80px" style="vertical-align:top;margin:0px 0px" src="./img/ros-logo.svg"/>
     <img align="left" alt="Docker" width="38px" style="padding:0px 0px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
      
 </div>
