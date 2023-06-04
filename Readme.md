@@ -7,12 +7,11 @@
 # </> Hi. I'm carjavi { }
 
 ### About me
-Autodidact and enthusiastic having extensive experience and strong grip on electronic, robotics and IoT
+Autodidact and enthusiastic having extensive experience and strong grip on electronic, robotics and IoT.
 https://carjavi.github.io/
 
-<br>
 
-### 🎵 listening on Spotify 
+### 🎵 listening on Spotify now!
 <!-- spotify github profile -->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22jsdvk3ryfqzw7bljmxox54a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
