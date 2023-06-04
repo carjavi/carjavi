@@ -4,11 +4,17 @@
 
 <!-- Counter Visits:END -->
 
+[![GitHub stars](https://img.shields.io/github/stars/carjavi/carjavi?style=flat&logo=github&color=orange)](https://github.com/carjavi/carjavi)
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/carjavi?logo=github&color=orange)](https://github.com/sponsors/carjavi)
+
 # </> Hi. I'm carjavi { }
 
 ### About me
 I'm working in it !
 https://carjavi.github.io/
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22jsdvk3ryfqzw7bljmxox54a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 <br>
 
@@ -83,6 +89,7 @@ https://carjavi.github.io/
 
 <br>
 
+
 ---
 ### My Interests: 
 <div class="row" align="center">
@@ -97,7 +104,7 @@ https://carjavi.github.io/
     <img align="left" alt="" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
     <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
     <img  align="left" alt="Skill-Alexa" width="32px" style="padding-right:10px;" src="./img/alexa.svg"/>
-    <img  align="left" alt="ROS" width="80px" style="vertical-align:top;margin:0px 0px" src="./img/ros-logo.svg"/>
+    <img  align="left" alt="ROS"  width="80px" style="vertical-align:top;margin:0px 0px" src="./img/ros-logo.svg"/>
     <img align="left" alt="Docker" width="38px" style="padding:0px 0px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
      
 </div>
