@@ -115,6 +115,7 @@ https://carjavi.github.io/
 <div class="row" align="center">
 <img  align="left" alt="node-red" width="30px" style="padding:5px 8px;" src="./img/node-red_.png"/>
 <img  align="left" alt="lorawan" width="90px" style="padding:5px 8px;" src="./img/lorawan.png"/>
+<img  align="left" alt="lorawan" width="90px" style="padding:5px 8px;" src="./img/ubidots.png"/>
 </div>
 
 
