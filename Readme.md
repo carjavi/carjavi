@@ -2,6 +2,13 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcarjavi%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors%3A+Today%2FTotal&edge_flat=false)](https://hits.seeyoufarm.com)
 
+[![HitCount](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcarjavi%2Fcarjavi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitas&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcarjavi%2Fcarjavi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitas&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
+
 <!-- Counter Visits:END -->
 
 # </> Hi. I'm carjavi { }
