@@ -2,6 +2,7 @@
 
 <p align="center">
     <a href="https://instintodigital.net/" target="_blank"><img src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/carjavi.png" height="100" alt="www.instintodigital.net"></a>
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" />
 </p>
 
 <p align="center">
