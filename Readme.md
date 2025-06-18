@@ -1,10 +1,9 @@
-<!-- Counter Visits -->
+<!-- Counter Visits & Estadísticas --> 
 ![Profile views](https://komarev.com/ghpvc/?username=carjavi&color=blue)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=carjavi.carjavi)
-
-<!-- Estadísticas -->
 ![GitHub stars](https://img.shields.io/github/stars/carjavi/carjavi)
 ![GitHub forks](https://img.shields.io/github/forks/carjavi/carjavi)
+
 
 # </> Hi. I'm carjavi { }
 
