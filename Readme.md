@@ -1,11 +1,23 @@
-<!-- Counter Visits & Estadísticas --> 
-![Profile views](https://komarev.com/ghpvc/?username=carjavi&color=blue)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=carjavi.carjavi)
-![GitHub stars](https://img.shields.io/github/stars/carjavi/carjavi)
-![GitHub forks](https://img.shields.io/github/forks/carjavi/carjavi)
 
 
+<p align="center">
+    <a href="https://instintodigital.net/" target="_blank"><img src="https://raw.githubusercontent.com/carjavi/carjavi/master/img/carjavi.png" height="100" alt="www.instintodigital.net"></a>
+</p>
+
+<p align="center">
+
+  ![Profile views](https://komarev.com/ghpvc/?username=carjavi&color=blue)
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=carjavi.carjavi)
+  ![GitHub stars](https://img.shields.io/github/stars/carjavi/carjavi)
+  ![GitHub forks](https://img.shields.io/github/forks/carjavi/carjavi)
+  [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/carjavi) 
+
+</p>
+
+  <!-- Counter Visits & Estadísticas --> 
 # </> Hi. I'm carjavi { }
+
+
 
 ### About me
 Autodidact and enthusiastic having extensive experience and strong grip on electronic, robotics and IoT.
